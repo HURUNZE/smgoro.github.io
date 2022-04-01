@@ -1,0 +1,96 @@
+{
+	"approved" : true,
+	"contentrating" : "Everyone",
+	"description" : "Due to popular request, this table of elements is now multi language and you can also change the background color! (controls are as seen on the screenshot)\nThis is the periodic table of elements for chemistry lovers. It has bright neon colors that clearly divides different category of elements. It also has CGI affects that shows atomic weights, number of electrons per orbits, etc. Enjoy!\nFor more information watch this short YouTube clip https://youtu.be/fg6Yg63oCfM\nTabla Periódica de los Elementos\nTableau Périodique des Éléments\nПериодическая таблица элементов\nDas Periodensystem der Elemente\n元素週期表",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"background_color" : 
+			{
+				"order" : 100,
+				"text" : "Background Color",
+				"type" : "color",
+				"value" : "0.06 0.07 0.09"
+			},
+			"language" : 
+			{
+				"options" : 
+				[
+					{
+						"label" : "English",
+						"value" : "english"
+					},
+					{
+						"label" : "Español",
+						"value" : "spanish"
+					},
+					{
+						"label" : "Français",
+						"value" : "french"
+					},
+					{
+						"label" : "Dansk",
+						"value" : "danish"
+					},
+					{
+						"label" : "Deutsche",
+						"value" : "german"
+					},
+					{
+						"label" : "Polska",
+						"value" : "polish"
+					},
+					{
+						"label" : "Português",
+						"value" : "Portuguese"
+					},
+					{
+						"label" : "فارسی",
+						"value" : "farsi"
+					},
+					{
+						"label" : "Ελληνικα",
+						"value" : "greek"
+					},
+					{
+						"label" : "한국어",
+						"value" : "korean"
+					},
+					{
+						"label" : "हिन्दी",
+						"value" : "hindi"
+					},
+					{
+						"label" : "русский",
+						"value" : "russian"
+					},
+					{
+						"label" : "中文",
+						"value" : "chinese"
+					}
+				],
+				"order" : 110,
+				"text" : "Language",
+				"type" : "combo",
+				"value" : "english"
+			},
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.gif",
+	"tags" : [ "Technology" ],
+	"title" : "Periodic Table of Elements *** MULTI - LANGUAGE ***",
+	"type" : "Web",
+	"version" : 11,
+	"visibility" : "public",
+	"workshopid" : "1828698678",
+	"workshopurl" : "steam://url/CommunityFilePage/1828698678"
+}

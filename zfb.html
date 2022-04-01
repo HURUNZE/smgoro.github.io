@@ -1,0 +1,51 @@
+<html>
+<head>
+<meta charset=”UTF-8″>
+<meta name=”viewport” content=”width=device-width, initial-scale=1″>
+<title>正在打开支付宝领红包</title>
+</script>
+</head>
+<body aligh=”center”>
+<div align=”center”>
+<p>
+<script type=”text/javascript”>
+function jsCopy(){
+var e=document.getElementById(“contents”);
+e.select();
+tag=document.execCommand(“Copy”);
+if(tag){
+alert(‘复制成功，打开支付宝领取红包’);
+}
+}</script>
+<img src="./images/zfbhbm.jpg" width=”200″ height=”301″>       </p>
+<p>
+<textarea id=”contents” cols=”40″ rows=”5″>支付宝发红包啦！即日起还有机会额外获得余额宝消费红包！长按复制此消息，打开最新版支付宝就能领取！jVKdkh68FO</textarea>
+<br />
+<input type=”button” onClick=”jsCopy();” value=”点击复制口令领红包” />
+<a href=”https://www.shadowsocksr.cat” >
+<input type=”button” value=”回到主页” />
+</a></p>
+<!–自动跳转支付宝–>
+<a id=”gogo” href=”alipays://platformapi/startapp?saId=10000007&clientVersion=3.7.0.0718&qrcode=https://qr.alipay.com/11w11906ikbbgrf7zdnqifb“>无法跳转请点击我哦~
+</a>
+<script src=”https://open.mobile.qq.com/sdk/qqapi.js?_bid=152”></script>
+<script>
+window.onhashchange = function() {
+document.getElementById(“gogo”).click();
+};
+function hh() {
+document.getElementById(“gogo”).click();
+mqq.ui.openUrl({
+target: 2,
+url: "alipays://platformapi/startapp?saId=10000007&clientVersion=3.7.0.0718&qrcode=https://qr.alipay.com/11w11906ikbbgrf7zdnqifb"
+});
+};
+setTimeout(‘hh();’, 500);
+</script>
+<!–自动跳转支付宝–>
+<p>领了实体店红包别急着退出,下面的余额宝红包更大哦~</p>
+<p> <img src=”./images/zfbhbm.jpg” width=”400″ height=”301″>       </p>
+</div>
+
+</body>
+</html>

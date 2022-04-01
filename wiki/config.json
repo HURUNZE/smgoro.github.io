@@ -1,0 +1,7 @@
+{
+    "useSideMenu":             true,
+    "lineBreaks":              "gfm",
+    "additionalFooterText":    "Tech_Query 汉化 - ",
+    "anchorCharacter":         "&para;",
+    "title":                   "MDwiki - 基于 Markdown 的 Wiki 系统，用 JavaScript 100% 运行在网页浏览器中！"
+}
